@@ -3,7 +3,7 @@ def get_addition(a,b,c):
     return add
 
 def get_quare(n):
-    return n**4
+    return n**3
 
 def get_substraction(a,b,c):
     return a-b-c
