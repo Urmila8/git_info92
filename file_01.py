@@ -1,5 +1,5 @@
-def get_addition(a,b):
-    add =a+b
+def get_addition(a,b,c):
+    add =a+b+c
     return add
 
 def get_quare(n):
