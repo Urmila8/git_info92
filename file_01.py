@@ -5,6 +5,6 @@ def get_addition(a,b):
 def get_quare(n):
     return n**2
 
-def get_substraction(a,b):
-    return a-b
+def get_substraction(a,b,c):
+    return a-b-c
 
