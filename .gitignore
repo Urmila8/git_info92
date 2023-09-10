@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 new_env/
+my_env/
 
 
 # C extensions
